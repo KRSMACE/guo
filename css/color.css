@@ -1,0 +1,28 @@
+
+body {
+    background-color: #ececec;
+}
+
+.header{
+    background-color: #90ccf4;
+}
+
+#searchButton{
+    background-color: #f3d250;
+}
+
+.popupButtonMessage{
+    background-color: #f3d250;
+}
+
+.footer{
+    background-color: #90ccf4;
+}
+
+#header1{
+     background-color: #90ccf4;
+}
+
+.siderbar{
+    background-color: red;
+}
