@@ -1,6 +1,6 @@
 
 body {
-    background-color: #ececec;
+    background-color: white;
 }
 
 .header{
@@ -19,10 +19,24 @@ body {
     background-color: #90ccf4;
 }
 
+/* Example colors on html */
+
 #header1{
      background-color: #90ccf4;
 }
 
-.siderbar{
-    background-color: red;
+#body1{
+    background-color: #ececec;
+}
+
+#searchButton1{
+    background-color: #f3d250;
+}
+
+#popupButtonMessage1{
+    background-color: #f3d250;
+}
+
+#footer1{
+    background-color: #90ccf4;
 }
